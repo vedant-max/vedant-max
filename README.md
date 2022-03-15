@@ -3,7 +3,7 @@
 
 - 🌱 I’m Competetive Programmer **Currently working on developing Android Application**
 
-- ⚡ Fun fact **I Like Football and my favourite team is Leeds United MOT!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
