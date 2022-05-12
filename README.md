@@ -2,7 +2,7 @@
 <h3 align="center">CS Undergraduate at JSSATEN</h3>
 
 - 🔭 I’m a Pre Final Year student from **JSSATE Noida**
-- 🌱 I’m Competetive Programmer **Currently working on developing Android Application**
+- 🌱 I’m Competitive Programmer **Currently working on developing Android Application**
 - 💬 Looking to collaborate and learn on Android Development**
 
 
