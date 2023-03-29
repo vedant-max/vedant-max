@@ -2,8 +2,8 @@
 <h3 align="center">CS Undergraduate at JSSATEN</h3>
 
 - 🔭 Final Year student from **JSSATE Noida**
-- 🌱 Android Developer @SuperShare
-- 💬 Talk to me about tech, football and anime**
+- 🌱 Android Developer **SuperShare**
+- 💬 Talk to me about tech, football and anime
 
 
 
