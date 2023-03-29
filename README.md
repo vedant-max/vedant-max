@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vedant Tiwari</h1>
 <h3 align="center">CS Undergraduate at JSSATEN</h3>
 
-- 🔭 I’m a Pre Final Year student from **JSSATE Noida**
-- 🌱 I’m Competitive Programmer **Currently working on developing Android Application**
-- 💬 Looking to collaborate and learn on Android Development**
+- 🔭 Final Year student from **JSSATE Noida**
+- 🌱 Android Developer @SuperShare
+- 💬 Talk to me about tech, football and anime**
 
 
 
